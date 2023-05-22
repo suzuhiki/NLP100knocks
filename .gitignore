@@ -1,3 +1,4 @@
 *checkpoint.ipynb
 
 data/news_aggregator_dataset/train.feature.txt
+data/GoogleNews-vectors-negative300.bin.gz
